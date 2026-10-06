@@ -1,0 +1,6 @@
+{
+  "name": "SENAI-SP | SIGE - Sistema Integrado de Gestão de Estoques",
+  "description": "Sistema profissional de controle e gestão de estoques do SENAI-SP com cadastro hierárquico Tipo-Grupo-Subgrupo-Artigo, movimentações, localização de armazenagem, relatórios e persistência em GitHub e Google Drive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
